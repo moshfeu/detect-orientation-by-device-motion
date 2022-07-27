@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "detect-orientation-by-device-motion",
+    "name": "Detect Orientation by Device Motion",
     "slug": "detect-orientation-by-device-motion",
     "version": "1.0.0",
     "orientation": "portrait",
